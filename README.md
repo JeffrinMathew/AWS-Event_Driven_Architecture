@@ -1,4 +1,4 @@
-# AmazonEventBridge
+# AmazonEventBridge (Event Driven Architecture)
 Event Driven Application with Event Bridge (S3 - EventBridge - Lambda Function)
 S3 EventBridge Pattern
 
