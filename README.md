@@ -63,7 +63,7 @@ Test the pattern:
 aws s3 cp <file> s3://<bucket>
 
 This command will upload a file to the S3 bucket and trigger an event.For this project I will upload a png to the s3 bucket created by SAM Cli.
-![Event_1](.img/cicd.png)
+![Event_1](./img/cicd.png)
 
 Check the Lambda function logs:
 The logs of out CloudWatch can be viewed through Lambda Monitoring tab.Following is the result after uploading the png:
