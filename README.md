@@ -1,7 +1,7 @@
 # AmazonEventBridge
 Event Driven Application with Event Bridge (S3 - EventBridge - Lambda Function)
 S3 EventBridge Pattern
-![Event] (./img/step1)
+![Event] (./img/step1.png)
 
 This is a  serverless application that demonstrates how to build an event-driven architecture using AWS S3 and EventBridge.
 Overview
